@@ -1,0 +1,19 @@
+{
+  "name": "js-weblogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyuec/js-webLogger.git"
+  },
+  "author": "liyuec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyuec/js-webLogger/issues"
+  },
+  "homepage": "https://github.com/liyuec/js-webLogger#readme"
+}
