@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/liyuec/js-webLogger/issues"
   },
-  "homepage": "https://github.com/liyuec/js-webLogger#readme"
+  "homepage": "https://github.com/liyuec/js-webLogger#readme",
+  "devDependencies": {
+    "prettier": "2.8.7"
+  }
 }
